@@ -27,6 +27,7 @@ return call_user_func( function() {
 				'FormatValueCaller.js',
 			),
 			'dependencies' => array(
+				'dataValues.DataValue',
 				'wikibase.api.__namespace',
 				'wikibase.api.RepoApiError',
 			)

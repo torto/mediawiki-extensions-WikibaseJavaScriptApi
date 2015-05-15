@@ -2,6 +2,9 @@
 
 ## Release notes
 
+### 1.0.3 (2015-05-21)
+* Made installable with data-values/javascript 0.7.0.
+
 ### 1.0.2 (2015-05-20)
 
 #### Enhancements
